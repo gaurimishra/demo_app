@@ -17,6 +17,8 @@
 /log/*.log
 /tmp
 
+README2
+
 # Ignore other unneeded files.
 database.yml
 doc/
